@@ -44,3 +44,21 @@ html {
   margin-top: 20px;
   padding: 8px;
 }
+
+@media only screen and (max-width: 764px){
+
+  .inputs-container{
+    width: 63vw;
+    height: 48vh;
+  }
+
+  .otp-container {
+    width: 65vw;
+
+  }
+
+
+  .foot-note {
+    width: 30vw;
+  }
+}
